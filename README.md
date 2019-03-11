@@ -1,8 +1,8 @@
 particles ✨🌟🌠
 
-> _Probably the thing that has happened to GitHub_ [paid reviewer #1]
+> _Probably the best (wink, pun intended) thing that has happened to GitHub_ [paid reviewer #1]
 
-> _I love the emojis_ [paid reviewer #2]
+> _The emojis are a huge plus!_ [paid reviewer #2]
 
 A gbest and lbest particle swarm optimization module for python.
 
