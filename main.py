@@ -7,6 +7,11 @@ def evaluate_particle(particle, pos):
     return particle, pos, curr_fitness
 
 
+class swarm:
+    def __init__(n_particles=10, omega=0.25, phi=[0.1, 0.01], rng=None):
+        pass
+
+
 if __name__ == "__main__":
     n = 400000
     DATA = np.zeros((n, 3))
