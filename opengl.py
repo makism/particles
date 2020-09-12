@@ -1,3 +1,10 @@
+""" OpenGL visualization of PSO
+
+In this demo we optimize DeJong's function.
+
+"""
+# author Avraam Marimpis <avraam.marimpis@gmail.com>
+
 import numpy as np
 from joblib import Parallel, delayed
 from glumpy import app, gl, gloo, glm

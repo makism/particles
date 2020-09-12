@@ -1,3 +1,10 @@
+""" Boilerplate code for PSO (gbest).
+
+In this demo we optimize DeJong's function.
+
+"""
+# author Avraam Marimpis <avraam.marimpis@gmail.com>
+
 import numpy as np
 from joblib import Parallel, delayed
 
@@ -5,11 +12,6 @@ from joblib import Parallel, delayed
 def evaluate_particle(particle, pos):
     curr_fitness = pos[0] ** 2 + pos[1] ** 2
     return particle, pos, curr_fitness
-
-
-class swarm:
-    def __init__(n_particles=10, omega=0.25, phi=[0.1, 0.01], rng=None):
-        pass
 
 
 if __name__ == "__main__":
