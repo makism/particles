@@ -1,0 +1,13 @@
+numpy>=1.19.0
+joblib
+
+flake8
+pytest
+pytest-cov
+coveralls
+codacy-coverage
+coverage
+codecov
+mypy
+tox
+tox-conda
